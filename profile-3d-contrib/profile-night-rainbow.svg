@@ -8023,7 +8023,7 @@
     </g>
     <g>
         <text style="font-size: 32px; font-weight: bold;" x="384" y="830" text-anchor="end"
-            fill="rgb(255,200,55)">380</text>
+            fill="rgb(255,200,55)">200</text>
         <text style="font-size: 24px;" x="394" y="830" text-anchor="start" fill="#eeeeff">
             contributions</text>
         <g transform="translate(608, 802), scale(2)">
@@ -8039,8 +8039,8 @@
                 fill="#eeeeff"></path>
         </g>
         <text style="font-size: 32px; font-weight: bold;" x="772" y="830" text-anchor="start"
-            fill="#eeeeff">48<title>48</title></text>
+            fill="#eeeeff">22<title>48</title></text>
         <text style="font-size: 16px;" x="1260" y="20" dominant-baseline="hanging" text-anchor="end"
-            fill="#aaaaaa">2023-10-15 / 2024-10-19</text>
+            fill="#aaaaaa">2024-05-15 / 2024-12-14</text>
     </g>
 </svg>
