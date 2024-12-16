@@ -8008,14 +8008,14 @@
             <path
                 d="M-5.211981620725477,-116.88385366501747A117,117,0,0,1,-2.1492551325036047e-14,-117L-1.1940306291686693e-14,-65A65,65,0,0,0,-2.8955453448474873,-64.93547425834304Z"
                 style="fill: #306998;" stroke="#00000f" stroke-width="2px">
-                <title>Python 150</title>
+                <title>TypeScript 150</title>
                 <animate attributeName="fill-opacity"
                     values="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="3s" repeatCount="1"></animate>
             </path>
             <path
                 d="M-5.211981620725477,-116.88385366501747A117,117,0,0,1,-2.1492551325036047e-14,-117L-1.1940306291686693e-14,-65A65,65,0,0,0,-2.8955453448474873,-64.93547425834304Z"
                 style="fill: #00ADD8;" stroke="#00000f" stroke-width="2px">
-                <title>Golang 100</title>
+                <title>JavaScript 100</title>
                 <animate attributeName="fill-opacity"
                     values="0;0.1;0.2;0.3;0.4;0.5;0.6;0.7;0.8;0.9;1" dur="3s" repeatCount="1"></animate>
             </path>
